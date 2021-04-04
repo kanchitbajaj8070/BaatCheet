@@ -91,9 +91,3 @@ typings/
 
 .idea/
 BaatCheet.iml
-config/
-controllers/
-models/
-package-lock.json
-routes/
-views/
