@@ -9,5 +9,5 @@ app.listen(port,(error)=>{
         //new way of embedding strings in the string(interpolation of strings)
         return;
     }
-    console.log("Server is up and runnign succesfully")
+    console.log(`Server is up and runnign succesfully on port: ${port}`);
 })
