@@ -1,0 +1,15 @@
+{
+  "name": "baatcheet",
+  "version": "1.0.0",
+  "description": "A social media website for people to interact with each other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social",
+    "media"
+  ],
+  "author": "kunal bajaj",
+  "license": "ISC"
+}
